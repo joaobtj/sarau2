@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Sobre o Sarau da Saúde"
 ---
 
-More about this website.
+Projeto de extensão da UFSC - Campus de Curitibanos cujo objetivo é criar espaços de convivência social e expressão artística e cultural, por meio da música e da poesia. 
